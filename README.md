@@ -1,2 +1,2 @@
 # Final-Project
-Magainze Final Project
+Magazine Final Project
