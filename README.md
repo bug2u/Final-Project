@@ -1,3 +1,3 @@
 # Final-Project
 Magazine Final Project
-https://rachellpotter.github.io/Final-Project/
+https://bug2u.github.io/Final-Project/
